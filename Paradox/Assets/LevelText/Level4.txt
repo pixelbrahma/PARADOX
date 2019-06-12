@@ -1,0 +1,9 @@
+X X X X X X X X X
+X E Z O O O O Y X
+X E X X X O X O X
+X O Y O X O O O X
+X X O O X X O O X
+X X O O X O O O X
+X X O O X O X S X
+X O Z O O O S S X
+X X X X X X X X X
